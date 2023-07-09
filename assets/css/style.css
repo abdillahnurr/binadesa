@@ -1622,7 +1622,7 @@ section {
     margin: 0 10px 10px 0;
 }
 .blog .blog-author .social-links a {
-    color: rgba(30, 67, 86, 0.5);
+    color: #a3c585;
     margin-right: 5px;
 }
 .blog .blog-author p {
@@ -1872,7 +1872,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-    background: #0b212d;
+    background: #174405;
     padding: 0 0 30px 0;
     color: #fff;
     font-size: 14px;
